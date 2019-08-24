@@ -1,0 +1,115 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <link rel="stylesheet" href="./assets/css/template.css">
+    </head>
+    <body>
+        <div class="topo">
+            <div class="topoint">
+                <p>Olá visitante. Acesse a sua <a href="">conta</a> ou <a href="">Cadastra-se</a></p>
+            </div>
+        </div>
+        <div class="topo2">
+            <div class="topo2int">
+                <div class="topo2intleft"></div>
+                <div class="topo2intright"></div>
+            </div>
+        </div>
+        <div class="menu">
+            <div class="menuint">
+                <ul>
+                    <a href="./"><li>HOME</li></a>
+                    <a href="./promocao"><li>PROMOÇÕES</li></a>
+                    <a href="./produto"><li>PRODUTOS</li></a>
+                    <a href="./categoria"><li>CATEGORIAS</li></a>
+                    <a href="./blog"><li>BLOG</li></a>
+                    <a href="./minhaConta"><li>MINHA CONTA</li></a>
+                    <a href="./informacao"><li>INFORMAÇÕES</li></a>
+                    <a href="./contato"><li>CONTATO</li></a>
+                     <a href="./administrador"><li>ADMINISTRADOR</li></a>
+                </ul>
+            </div>
+        </div>
+        <div class="contanner">
+            <div class="contannerint">
+                
+<div class="contanner">
+    <p class="cadastra"><a href="">Principal</a> >> <a href="">Minha Conta</a> >> <a href="">Acessar/Cadastrar</a></p>
+    <div class="contannerleft" style="float: left;margin-right:20px; ">  
+        <h1>Acessar/Cadastrar</h1>
+        <h3>Sou um novo cliente.</h3>
+        <h4>Cadastrar-se(recomendado)</h4>
+        <p>Ao cadastrar-se e criar uma conta você poderá comprar mais</br> rapidamente, saber a situação de seus pedidos e acompanhar</br> as compras já realizadas</p>
+        <input  type="button" value="CONTINUAR"style="background-color: #333;color: #fff;height: 30px;"/>
+    </div><br><br><br>
+    <div class="contannerCenter" style="float: left;margin-right:50px; ">
+        <h3>Já sou cliente.</h3>
+        <p>Digite abaixo seu e-mail e senha já cadastrados na loja.</p>
+        Seu Email:<br><br>
+        <input class="text"type="email" placeholder="Email..."/><br><br>
+        Sua Senha:<br><br>
+        <input class="text"type="password" placeholder="Senha..."/><br><br>
+        <input  type="button" value="ACESSAR"style="background-color: #333;color: #fff;height: 30px;"/>
+    </div>
+    <div class="contannerRight"style="float: left;">
+        <h1>Minha Conta</h1>
+        <ul>
+            <a href=""><li>Acessar/Cadastrar</li></a>
+            <a href=""><li>Esquecer a Senha?</li></a>
+            <a href=""><li>Minha Conta</li></a>
+            <a href=""><li>Endereço</li></a>
+            <a href=""><li>Lista de Desejos</li></a>
+            <a href=""><li>Históricos de Pedidos</li></a>
+            <a href=""><li>Meus Download</li></a>
+            <a href=""><li>Minhas Devoluções</li></a>
+            <a href=""><li>Créditos e Débitos</li></a>    
+        </ul>
+
+    </div>
+</div>
+
+            
+            </div>
+            
+        </div>
+        <div class="rodape">
+            <div class="rodapeint">
+                <div class="rodapeintleft">
+
+                    <ul style="float:left;">
+                        <li class="link">Informação</li>
+                        <a href=""><li>Sobre o BC Arte e Decorações</li></a>
+                        <a href=""><li>Entregas</li></a>
+                        <a href=""><li>Politicas de Privacidade</li></a>
+                        <a href=""><li>Troca e Devoluções</li></a>
+                    </ul>
+                    <ul style="float: left;margin-right: 10px;">
+                        <li class="link">Atendimentos</li>
+                        <a href=""><li>Contato-nos</li></a>
+                        <a href=""><li>Devoluções</li></a>
+                        <a href=""><li>Mapa da Loja</li></a>
+                    </ul>
+                    <ul style="float: left;margin-right: 10px;">
+                        <li class="link">Extras</li>
+                        <a href=""><li>Lista de Fabricantes</li></a>
+                        <a href=""><li>Blog:Novidades e Dicas</li></a>
+                        <a href=""><li>Promoções</li></a>
+                    </ul>
+                    <ul style="float: left;margin-right: 10px;">
+                        <li class="link">Minha Conta</li>
+                        <a href=""><li>Minha Conta</li></a>
+                        <a href=""><li>Histórico de Pedidos</li></a>
+                        <a href=""><li>Lista de Desejos</li></a>
+                    </ul>
+                    <ul style="float: left;margin-right: 10px;">
+                        <li class="link">Fale conosco</li>
+                        <a href=""><li>(48) 998-000-521</li></a>
+                        <a href=""><li>paulogoncalo@outlook.com</li></a>
+                        <a href=""><li>Av.Santa Barbara 1800<br>Osvaldo Roberto Maier</li></a>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

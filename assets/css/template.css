@@ -1,0 +1,145 @@
+body{
+    margin: 0;
+    color: #333;
+    font-family: Arial;
+    font-size: 15px;
+}
+.topo{
+    width: 100%;
+    height: 30px;
+    background-color: #330000;
+    color: #fff;
+}
+.topo2{
+    width: 100%;
+    height: 100px;
+    background-color: #990000;
+}
+.topoint{
+    width: 100%;
+    max-width: 1040px;
+    height: 30px;
+    margin: auto;
+    line-height: 30px;
+    font-size: 12px;
+}
+.menu{
+    width: 100%;
+    height: 28px;
+    background-color: #f5f5f5;
+    border-bottom: 2px solid #b4b4b4;
+}
+.menuint{
+    width: 100%;
+    max-width: 1040px;
+    margin: auto;
+}
+.menuint ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.menuint li{
+    float: left;
+    color:#333;
+    opacity: 0.90;
+    margin-right: 20px;
+    height: 28px;
+    line-height: 28px;
+}
+.menuint a li:hover{
+    color: #ff6666;
+    border-bottom: 2px solid #ff6666; 
+}
+.contanner{
+    height: 1000px;
+    width: 100%;
+    background-color: #f7f5f0;
+    padding-top: 10px;
+}
+.contannerint{
+    width: 100%;
+    max-width: 1040px;
+    margin: auto;
+    height: 1000px;
+    background-color: #fff;
+    
+
+}
+.rodape{
+
+    width: 100%;
+    height: 200px;
+    background-color: #333;
+    
+
+}
+.rodapeint{
+    width: 100%;
+    max-width: 1040px;
+    margin: auto;
+    height: 200px;
+}
+.rodapeintleft{
+    width: 100%;
+    float: left;
+    margin: 0;
+    padding: 0;
+    height: 200px;
+  
+
+}
+.rodapeintleft a{
+    color: #fff;
+    text-decoration: none;
+}
+.rodapeint a:hover{
+    color: red;
+    text-decoration: none;
+}
+.rodapeintleft li{
+    margin-bottom: 10px;
+    
+}
+.rodapeintleft ul .link{
+    list-style: none;
+    font-size: 20px;
+    border-bottom: 2px solid #fff;
+    margin-bottom: 20px;
+    color: #fff;
+}
+.rodapeintright{
+    width: 30%;
+    float: right;
+    height: 200px;
+    background-color: blueviolet;
+
+}
+.contannerCenter .text{
+    
+    height: 40px;
+    width: 300px;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.contannerRight li{
+    margin-bottom: 5px;
+    color: black;
+}
+.contannerRight a{
+    text-decoration: none;
+}
+.contannerRight a li:hover{
+    color:red;
+}
+.contanner .cadastra a:hover{
+     color:red;
+     
+    
+}
+.contanner .cadastra a{
+    text-decoration: none;
+    color: black;
+    
+}
